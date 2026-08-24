@@ -45,4 +45,4 @@ If you find an issue or have a suggestion, you can open an issue on the GitHub r
 
 MIT License
 
-Copyright (c) 2026 Roberto Carlos
+Copyright (c) 2026 Roberto Carlos.
